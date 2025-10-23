@@ -62,7 +62,7 @@ It helps stakeholders understand system functionality from a user’s perspectiv
 
 Below is the use case diagram for the booking system, showing the main actors and use cases:
 
-<img width="802" height="762" alt="alx-booking-uc (1)" src="https://github.com/user-attachments/assets/5c49473e-73f0-462d-ace2-1bd3fd365c52" />
+<img width="802" height="762" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/5c49473e-73f0-462d-ace2-1bd3fd365c52" />
 
 ## Acceptance Criteria
 
